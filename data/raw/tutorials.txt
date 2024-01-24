@@ -1,0 +1,8 @@
+https://isocpp.org/images/uploads/2-Tour-Basics.pdf
+https://isocpp.org/tour
+https://nextjs.org/docs/pages/building-your-application/data-fetching
+https://nextjs.org/docs/pages/building-your-application/data-fetching/get-server-side-props
+https://nextjs.org/learn/basics/data-fetching/request-time
+https://passportjs.org/howtos/password/
+https://passportjs.org/howtos/session/
+https://theodinproject.com/paths
